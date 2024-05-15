@@ -21,10 +21,10 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 ## <!-- <img src=" " width="50px" height="50px">-->:telephone: Contacts
 
-- <img src="https://skillicons.dev/icons?i=discord" alt="Contact"> : makuz__
-- <img src="https://skillicons.dev/icons?i=gmail" alt="Contact"> : joaosilva.1701@hotmail.com
-- <img src="https://skillicons.dev/icons?i=instagram" alt="Contact"> : [joao_pedroo.s](https://www.instagram.com/joao_pedroo.s/)
-- <img src="https://skillicons.dev/icons?i=linkedin" alt="Contact"> : [jp2005](https://www.linkedin.com/in/jp2005/)
+- [<img src="https://skillicons.dev/icons?i=discord" alt="Contact">] "makuz__"
+- [<img src="https://skillicons.dev/icons?i=gmail" alt="Contact">](joaosilva.1701@hotmail.com)
+- [<img src="https://skillicons.dev/icons?i=instagram" alt="Contact">](https://www.instagram.com/joao_pedroo.s/)
+- [<img src="https://skillicons.dev/icons?i=linkedin" alt="Contact">](https://www.linkedin.com/in/jp2005/)
 
 
 </div>
