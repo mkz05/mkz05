@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me
 
-#### :rose: Passionate Web Dev Student :computer: 
+#### :🖥️: Passionate Web Dev Student :computer: 
 - :school: Studying Web Developing and Multimedia on **IPL, Leiria**
 - :innocent: Intermidiate at Programing :penguin:
 - :cookie: Interested in Studying, Programming, Gaming and Snooker
