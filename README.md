@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=AE54F7&center=true&random=false&width=450&lines=Hello+World!>
-</div>
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me
 
 #### :rose: Passionate Web Dev Student :computer: 
