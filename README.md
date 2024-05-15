@@ -12,18 +12,15 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 <img src="https://skillicons.dev/icons?i=bash,html,css,js,php,jquery,mysql" alt="Languages">
 
-<img src="https://skillicons.dev/icons?i=vscode,atom,vim,neovim,linux,git,dotnet,docker,cmake,bootstrap,laravel,arduino,raspberrypi" alt="Tools">
+<img src="https://skillicons.dev/icons?i=vscode,github,bootstrap,wordpress,photoshop,ilustrator" alt="Tools">
 
 
 <!-- Contacts, same as before, search the icon add the respective information and make sure everything is running well -->
 
 ## <!-- <img src=" " width="50px" height="50px">-->:telephone: Contacts
 
-
-<!-- Snake Game -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RubinhoGomes/RubinhoGomes/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+- :school: Studying Web Developing and Multimedia on **IPL, Leiria**
+- :cookie: Interested in Gaming, Programing and Studying
+- ⚜️` "O melhor meio para alcançar a felicidade é contribuir para a felicidade dos outros" `
 
 </div>
