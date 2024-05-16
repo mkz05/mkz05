@@ -27,14 +27,6 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 - [<img src="https://skillicons.dev/icons?i=linkedin" alt="Contact">](https://www.linkedin.com/in/jp2005/)
 
 
-### Connect with me
-
-[<img align="left" alt="discord" src="https://img.shields.io/badge/discord%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
-<br />
-<br />
-
 
 
 </div>
