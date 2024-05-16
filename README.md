@@ -8,7 +8,7 @@
 <!-- Languages and Tools, To add, search the respective icon on 
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Operating System, Languages and Tools
+### Technology Stack: Operating System, Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=windows " alt="Operating Sistem">
 
@@ -27,7 +27,14 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 - [<img src="https://skillicons.dev/icons?i=linkedin" alt="Contact">](https://www.linkedin.com/in/jp2005/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkz_05)](https://github.com/mkz_05/github-readme-stats)
+### Connect with me
+
+[<img align="left" alt="discord" src="https://img.shields.io/badge/discord%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+<br />
+<br />
+
 
 
 </div>
