@@ -27,4 +27,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 - [<img src="https://skillicons.dev/icons?i=linkedin" alt="Contact">](https://www.linkedin.com/in/jp2005/)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
